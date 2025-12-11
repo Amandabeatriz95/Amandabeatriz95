@@ -15,8 +15,7 @@
 | Scrum    |[Certificado](https://drive.google.com/file/d/1ukg2Ftt2w1-x4TTJKQT3NtxorQ0c-HVt/view?pli=1)|
 | Cloud    |[Certificado](https://drive.google.com/file/d/1PjWckzv_El71vhVW_TKzBsV7qIEqWSjA/view)|
 
-
-
+--------------------------
 
 
 💬 Profissional apaixonada por tecnologia, com foco em Cloud, Arquitetura de Software e DevOps.
