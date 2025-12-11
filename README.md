@@ -10,6 +10,14 @@
 
 ---------
 
+|  Cursos  |  Certificados |
+|----------| --------------|
+| Scrum    |[Certificado](https://drive.google.com/file/d/1ukg2Ftt2w1-x4TTJKQT3NtxorQ0c-HVt/view?pli=1)|
+| Cloud    |[Certificado](https://drive.google.com/file/d/1PjWckzv_El71vhVW_TKzBsV7qIEqWSjA/view)|
+
+
+
+
 
 💬 Profissional apaixonada por tecnologia, com foco em Cloud, Arquitetura de Software e DevOps.
 Tenho formação em Gestão de TI, sou pós-graduada em Cloud Computing e Arquitetura, e atualmente estou expandindo minhas habilidades em DevOps e Desenvolvimento Full Stack para dominar ainda mais o ciclo completo de construção, entrega e operação de software.
